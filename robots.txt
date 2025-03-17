@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ayodeledada.github.io/sitemap.xml
+Sitemap: https://ayodeledanieldada.github.io/sitemap.xml

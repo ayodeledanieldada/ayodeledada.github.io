@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.gregorywalton.com/people.html'>Dweck-Walton lab</a>. ayo.dada@stanford.edu <br><br>Stanford California.<br><br> Lateritiam inveni, marmoream reliquit - Augustus Ceasar.
 
@@ -27,7 +27,7 @@ Hi there and welcome to my website!
 
 ## What I Do
 
-I am a Psychology Ph.D. candidate in the Dweck-Walton lab at Stanford University where I work with both Dr Carol Dweck and Dr Greg Walton. I am also a Knight-Hennessy Scholar at Stanford University. Knight-Hennessy scholars gain specialized knowledge in their Stanford graduate program and enhance this expertise by engaging with various disciplines and cultures within the Knight-Hennessy Scholars (KHS) community. Scholars collaborate and prepare to address global issues such as climate change, healthcare, government and policy, and education.
+I am a Psychology Ph.D. candidate in the Dweck-Walton lab at Stanford University where I work with both [Dr Carol Dweck](https://psychology.stanford.edu/people/carol-dweck) and [Dr Greg Walton](https://www.gregorywalton.com/). I am also a [Knight-Hennessy Scholar](https://knight-hennessy.stanford.edu/) at Stanford University. Knight-Hennessy scholars gain specialized knowledge in their Stanford graduate program and enhance this expertise by engaging with various disciplines and cultures within the Knight-Hennessy Scholars (KHS) community. Scholars collaborate and prepare to address global issues such as climate change, healthcare, government and policy, and education.
 
 ## What does my work entail?
 

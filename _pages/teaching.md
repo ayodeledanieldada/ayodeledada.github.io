@@ -35,7 +35,7 @@ nav_order: 6
 
 ## Head Teaching Fellow
 
-- **PSYCH 238:** The Sociocultural Shaping of Psychological Experience  
+- **PSYCH 144:** The Sociocultural Shaping of Psychological Experience  
   with _Professors Claude Steele and Hazel Markus_  
   Led a class of 30 students and a 2-person teaching team
 

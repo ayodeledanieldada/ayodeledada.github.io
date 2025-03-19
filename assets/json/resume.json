@@ -88,9 +88,7 @@
       "startDate": "",
       "endDate": "2015-10-01",
       "score": "",
-      "courses": [
-        "Graduated summa cum laude, valedictorian out of 3000 graduates"
-      ]
+      "courses": ["Graduated summa cum laude, valedictorian out of 3000 graduates"]
     }
   ],
 
@@ -189,11 +187,7 @@
     {
       "name": "Research Interests",
       "icon": "",
-      "keywords": [
-        "Wise Interventions",
-        "Gender Disparity",
-        "Education"
-      ]
+      "keywords": ["Wise Interventions", "Gender Disparity", "Education"]
     }
   ],
 
